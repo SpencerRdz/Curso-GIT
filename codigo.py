@@ -1,4 +1,4 @@
-nombre = "PEPE"
+
 nombre = "Spencer Fabian"
 apellido = "Rodriguez"
 
